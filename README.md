@@ -22,12 +22,31 @@
 
 <a name="II-Hướng-dẫn-sử-dụng"></a>
 ## 🧾 B. Hướng dẫn sử dụng
+Các bước thực hiện:
 - Kết nối cảm biến siêu âm với mạch theo sơ đồ nguyên lý.
 - Kết nối động cơ servo với mạch theo sơ đồ nguyên lý.
 - Kết nối màn hình OLED với mạch theo sơ đồ nguyên lý.
 - Nạp code vào mạch.
 - Đặt mạch ở một vị trí cố định, không di chuyển.
 - Khi có vật cản di chuyển qua cảm biến, màn hình sẽ hiển thị hình ảnh radar quét ngang.
+
+Quy ước chân kết nối:
+| Chân siêu âm SR04 | Chân Servo    | Chân OLED    | Chân ESP32 |
+| :---:   | :---: | :---: | :---: |
+| VCC | VCC   | VCC   | 3.3V |
+| Trig |   |  | 23   |
+| Echo |   | | 18   |
+| GND  | GND   | GND  | GND  |
+|       |   | SDA  | 21   |
+|       |  | SCK  | 22   |
+|       | Data  |  | D5   |
+
+Sơ đồ kết nối:
+![Sơ đồ kết nối](./simulation.png)
+
+Hình ảnh mạch thực tế:
+![Mạch thực tế](./real.png)
+Video demo: [Video]()
 
 <a name="III-Danh-sách-linh-kiện"></a>
 ## 🧰 C. Danh sách linh kiện
@@ -66,7 +85,7 @@ Sơ đồ nguyên lý của đề tài:
 - Hàm `loop()` sẽ quét góc 180 độ của động cơ servo và hiển thị khoảng cách lên màn hình OLED.
 
 Cảm biến siêu âm HC-SR04 sử dụng nguyên lý hoạt động như sau:
-- Cảm biến gửi tín hiệu siêu âm ra vật cản thông qua chân `Trig`.
+- Cảm biến gửi tín hiệu siêu âm ra vật cản thông qua chân `Trig` ở mức thấp trong 2uS trong khoảng 10uS.
 - Tín hiệu siêu âm sẽ phản xạ từ vật cản và trở về cảm biến.
 - Cảm biến sẽ đọc giá trị trả về qua chân `Echo` với giá trị trong khoản từ 10 - 38 tương ứng với khoảng cách vật lý từ 2cm - 50cm.
 ```c
