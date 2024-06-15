@@ -39,7 +39,7 @@ Quy ước chân kết nối:
 | GND  | GND   | GND  | GND  |
 |       |   | SDA  | 21   |
 |       |  | SCK  | 22   |
-|       | Data  |  | D5   |
+|       | PWM  |  | D5   |
 
 Sơ đồ kết nối:
 ![Sơ đồ kết nối](./simulation.png)
