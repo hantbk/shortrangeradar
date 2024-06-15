@@ -72,6 +72,7 @@ Video demo: [Video]()
 <a name="IV-Sơ-đồ-nguyên-lý"></a>
 ## 🚀 D. Sơ đồ nguyên lý
 Sơ đồ nguyên lý của đề tài:
+
 ![Sơ đồ nguyên lý](./nguyenly.png)
 
 <a name="V-Thiết-kế-phần-mềm"></a>
