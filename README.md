@@ -45,7 +45,9 @@ Sơ đồ kết nối:
 ![Sơ đồ kết nối](./simulation.png)
 
 Hình ảnh mạch thực tế:
+
 ![Mạch thực tế](./real.png)
+
 Video demo: [Video]()
 
 <a name="III-Danh-sách-linh-kiện"></a>
