@@ -46,7 +46,7 @@ Sơ đồ kết nối:
 
 Hình ảnh mạch thực tế:
 
-![Mạch thực tế](./real.png)
+![Mạch thực tế](./radar.png)
 
 Video demo: [Video]()
 
