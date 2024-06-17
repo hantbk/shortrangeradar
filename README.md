@@ -48,7 +48,11 @@ Hình ảnh mạch thực tế:
 
 ![Mạch thực tế](./radar.png)
 
-Video demo: [Video]()
+Video demo:
+
+https://github.com/DoDat-12/shortrangeradar/assets/89787228/abf60fdb-f4bd-479f-adab-8d7409c9bfb1
+
+
 
 <a name="III-Danh-sách-linh-kiện"></a>
 ## 🧰 C. Danh sách linh kiện
