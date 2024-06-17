@@ -44,7 +44,7 @@ Quy ước chân kết nối:
 Sơ đồ kết nối:
 ![Sơ đồ kết nối](./simulation.png)
 
-Hình ảnh mạch thực tế:
+Hình ảnh thực tế:
 
 ![Mạch thực tế](./radar.png)
 
@@ -83,7 +83,7 @@ Sơ đồ nguyên lý của đề tài:
 
 <a name="V-Thiết-kế-phần-mềm"></a>
 ## 💻 E. Thiết kế phần mềm
-- Code được viết bằng ngôn ngữ C.
+- Code được viết bằng ngôn ngữ C++.
 - Sử dụng thư viện `Ultrasonic.h` để đọc dữ liệu từ cảm biến siêu âm.
 - Sử dụng thư viện `ESP32Servo.h` để điều khiển động cơ servo.
 - Sử dụng thư viện `U8g2lib.h` để điều khiển màn hình OLED.
