@@ -141,9 +141,9 @@ Code đầy đủ: [Code](./shortrangeradar.ino)
 <a name="VI-Tác-giả"></a>
 ## ✍️ F. Tác giả
 - [Nguyễn Thanh Hà](https://github.com/hantbk) - 20210298
-- [Đỗ Thành Đạt](https://github.com/Duongneee) - 20215560
+- [Đỗ Thành Đạt](https://github.com/DoDat-12) - 20215560
 - [Vũ Văn Hảo](https://github.com/vanhao2310) - 20215572
-- [Quách Đình Dương](https://github.com/vanhao2310) - 20215558
+- [Quách Đình Dương](https://github.com/Duongneee) - 20215558
 
 ⭐ If you use the project, please give us a star. Thank you!
 
