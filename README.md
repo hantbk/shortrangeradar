@@ -58,22 +58,22 @@ https://github.com/DoDat-12/shortrangeradar/assets/89787228/abf60fdb-f4bd-479f-a
 ## 🧰 C. Component List
 1. HC-SR04 Ultrasonic Sensor
 - Quantity: 1
-- Purchase link: [HC-SR04](https://banlinhkien.com/cam-bien-sieu-am-srf04-p6646905.html)
+- Purchase link: [HC-SR04](https://www.amazon.com/Ultrasonic-Measuring-Transducer-ultrasonic-transducer/dp/B0DDHGRP6C/ref=sr_1_4?crid=1IB3FHUI8M8N3&dib=eyJ2IjoiMSJ9.eXeBKxGwPIAwCcKVzElQv8X3oAAwhxUeCUVdVBFUYNmUlyYLGCS0GYFsrQ2Uvwsxc7-pPrgm9S_HSuKXgtnIbmuIaC99BHFq0Yt4IfO23YlEanGObyIW4m1OSDgjuTBA36VRlU4RzidUacGqamEslIG0vaLTd9TfH7PPJVVuIjGBXAKgB_wi-FgoH06wpKCyEt5FOHXrHfxvAHVU45xF_L2gCXC8Rm0C9H8GxiwZuDw.5cQZdw4xwgxkBOHclAMM5yJXDYtIl_986gtlzTelvt8&dib_tag=se&keywords=hc-sr04+ultrasonic+sensor&qid=1728314856&sprefix=HC-SR04+Ultrasonic+Sensor,aps,1024&sr=8-4)
 2. SG90 Servo Motor
 - Quantity: 1
-- Purchase link: [SG90](https://banlinhkien.com/dong-co-servo-sg90-goc-quay-180-p6648774.html)
+- Purchase link: [SG90](https://www.amazon.com/Micro-Helicopter-Airplane-Remote-Control/dp/B072V529YD/ref=sr_1_1?crid=26NMBNLO46FS8&dib=eyJ2IjoiMSJ9.KPXY-1BMD4AoaoJO-RlV6e7C7amAWYjWITcPSXLXG2zRavVbnnPzOpjqZGcwc_7zs0FMRUOqX_6DKNaLZeGLp0lZtcki4KKk8l4bW1FvhkHfEQ1Zfn-Y4UGOIC5UwcoVnWFP1o20XD4xmkAYFpw5qB2VvmoqMVJhLJG5qD3AAR9tvUt1XIYa7VD948GrL0MsH60l4sDy_lnOSuCUZxFcWwYy4rWsmCHwceczUgDiQRTKZTzfqxIEHk7K3EN7FsHT1WqqYAIcMi4fUHEGivJe8-bqkGjNskY85esMS2lynFE.a2QlsUjCq1aRS1bfKfWEo9lCNisCGPLxPD0glniBCdQ&dib_tag=se&keywords=SG90+Servo+Motor&qid=1728315406&sprefix=sg90+servo+motor%2Caps%2C380&sr=8-1)
 3. 1.3-inch OLED Screen
 - Quantity: 1
-- Purchase link: [1.3-inch OLED](https://banlinhkien.com/man-hinh-oled-1.3-128x64-i2c-xanh-oled13i2cb-p12496195.html)
+- Purchase link: [1.3-inch OLED](https://www.amazon.com/DIYmalls-Display-Screen-Module-128x64/dp/B0CCL88VTG/ref=sr_1_1?crid=DKS7YMJHO96V&dib=eyJ2IjoiMSJ9.oM7nbUfV8fUt1aA3u6HNbF_W5gjCcXVPl5HphE6MNMm0rhyMg8vi4yKagshxzu9jmfenfdVlJDnpuWLYFjU8LANnRDtFQkx7LEtY3JHZJ_K9kkAn5sw4eBCrQlynv2V-D6FohG8pGYmSxQcuI5_Crs_k_4tLh_4Bp1mkfKAG8_lsI7igzmYsZ2gFuMlQcow9bqElZJCmIh2rVIZcmC577QryjVXNiQheFSWWrgySSgM.O7F-4kBFAwl2S14SFISV33xN3B2-AMA-cpzpyHXVGMs&dib_tag=se&keywords=1.3-inch+OLED+Screen&qid=1728314977&sprefix=1.3-inch+oled+screen%2Caps%2C518&sr=8-1)
 4. ESP32 Board
 - Quantity: 1
-- Purchase link: [ESP32](https://banlinhkien.com/kit-wifi-esp32-espwroom32s-p6649289.html)
+- Purchase link: [ESP32](https://www.amazon.com/ESP-WROOM-32-Development-Microcontroller-Integrated-Compatible/dp/B08D5ZD528/ref=sr_1_1?crid=2TRAUGW316QTB&dib=eyJ2IjoiMSJ9.Na5nlliGXytwgT8dOa8kGlXx8Rt9q6wySlhgETYvRAeszt3OtYu80LduyWzHyaKfKpUmWt7-zJbF0gLRxy61Q_QhRoBJEPr92BRRPkI2d4dTjShgDRQkToNpegRs-56rKZEYuvdRpSOiscJx_NmNJFO_uHrJUxRwIT5cVqbt7wslPAddwUalOCpUp6gaxzoK6nfpY_gJnd_iPffcv26rWO1h3LJDuemkNh_Nwqyyz-o.5DC3psoxXOO4yuME3WBP2KKEOsvgs28e0-xPVfLLXuA&dib_tag=se&keywords=esp32+board&qid=1728314997&sprefix=ESP32+Board%2Caps%2C585&sr=8-1)
 5. SYB-170 Test Board
 - Quantity: 1
-- Purchase link: [Test Board](https://banlinhkien.com/board-test-syb170-170-lo-4.7x3.5cm-p6649612.html)
+- Purchase link: [Test Board](https://www.amazon.com/Aexit-Universal-Tiepoint-Solderless-Breadboard/dp/B07DDBDMQ4/ref=sr_1_2?crid=1GGISP93BAC0D&dib=eyJ2IjoiMSJ9.UlZ49eWCsbbvypv6solRaqBzhUim46joXtChPDTaoKHnqxVWdF-NmQz2qDZ3Jp2U_ghbCjSuw9kXYrOtZ2ZcqIUlciB69P2OeTM6gyqyROQdtWoxHmAJ_T3TwZGMoGGej4r4ukZA2V8ddvx3r8_LW4Gr07LhE0XbJjt16Ko9MG75HWItFDUq-yOMS4dvr-z1NvJSEsrcE4PSgMO6iY7DahNifQEetJKHwnklH170rE8.R1Ukqpb4wd8t_GOvG10aQct_xlwe89hABLcPBB9hMf0&dib_tag=se&keywords=SYB-170+Test+Board&qid=1728315461&sprefix=syb-170+test+board%2Caps%2C577&sr=8-2)
 6. Connecting Wires
 - Quantity: multiple
-- Purchase link: [Connecting Wires](https://banlinhkien.com/day-nhieu-mau-3p-xh2.54-20cm-p20789741.html)
+- Purchase link: [Connecting Wires](https://www.amazon.com/Preformed-Breadboard-Assorted-Solderless-Prototyping/dp/B07WC3YKGQ/ref=sr_1_9?crid=1EOQB6Q7RQPJK&dib=eyJ2IjoiMSJ9.9coO5iQ14I-rcVuj0bUrBVFPSUAKFh1d1NgQ1NQyWwJ7tyKnE0oKrp5kfVevhkrwcoV6CU8uefDsDt8r865sMy44IA4GeW6cpGUVLJONXx6q584JmpuzfgH8BVMRWoaafTxCcKja7i6CSoE-IFKOZiutt0rcAfmhEuVjIwSaoiooK9QsVDVzkWqhjxcv5AjjcZubVjP8gMqi_E1-1LxN2mweBa7q1i0aNLS0hXU9aQg.m2XSZQE8Az9vj7Z-QbaEUxCzMpkZ8ghKGJkA52uNdbc&dib_tag=se&keywords=Connecting+Wires&qid=1728315072&sprefix=connecting+wires%2Caps%2C546&sr=8-9)
 
 <a name="IV-Schematic-Diagram"></a>
 ## 🚀 D. Schematic Diagram
@@ -121,11 +121,12 @@ The 1.3-inch OLED screen operates on the following principle:
 - The OLED screen uses I2C communication.
 - The OLED screen will display a horizontal scanning radar image.
 - The OLED screen will display the distance on the OLED screen.
+
 ```c
 dis = GetDistance();
     Serial.println(dis);
 
-    // Draw radar beam
+    // Draw radar line
     if (dis >= MAX_DISTANCE) {
       int x = centerX - radius * cos(currentAngle * PI / 180);
       int y = centerY - radius * sin(currentAngle * PI / 180);
@@ -148,7 +149,6 @@ Full code: [Code](./shortrangeradar.ino)
 - [Quach Dinh Duong](https://github.com/Duongneee) - 20215558
 
 ⭐ If you use the project, please give us a star. Thank you!
-
 
 
 
