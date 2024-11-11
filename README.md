@@ -1,5 +1,5 @@
 # Short Range Ultrasonic Radar
-
+![Cover](./assets/cover.webp)
 
 ## 📝 Table of Contents:
 [A. Introduction](#I-Introduction)
@@ -16,9 +16,44 @@
 
 <a name="I-Introduction"></a>
 ## 🏁 A. Introduction
-- This project uses an ultrasonic sensor to measure the distance from the sensor to obstacles within a range of 2cm to 50cm.
+- This project uses an ultrasonic sensor to measure the distance from the sensor to obstacles within a range of 2cm to 400cm (0.8inch to 157inch) with an accuracy of 0.3cm (0.1inch), which is good for most applications.
 - Uses a servo motor to sweep a 180-degree angle.
 - The measured distance will be displayed on a 1.3-inch OLED screen in the form of a horizontal scanning radar.
+- The project is implemented on the ESP32 board.
+- The project is suitable for use in small spaces such as rooms, corridors, etc.
+
+## HC-SR04 Ultrasonic Sensor Technical Data
+The following table shows the key features and specs of the HC-SR04 ultrasonic sensor. For more information, you should consult the sensor’s datasheet.
+
+| Feature | Description |
+| :---: | :---: |
+| Power Supply | 5V DC |
+| Working Current | 15mA |
+| Working Frequency | 40kHz |
+| Maximum Range |  4 meters |
+| Minimum Range | 2 cm |
+| Mesuring Angle | 15º |
+| Resolution | 0.3 cm |
+| Trigger Input Signal | 10uS TTL pulse |
+| Echo Output Signal | TTL pulse proportional to the distance range |
+| Dimensions | 45mm x 20mm x 15mm |
+
+## How Does the HC-SR04 Ultrasonic Sensor Work?
+The ultrasonic sensor uses sonar to determine the distance to an object. Here’s how it works:
+
+1. The ultrasound transmitter (trig pin) emits a high-frequency sound (40 kHz).
+2. The sound travels through the air. If it finds an object, it bounces back to the module.
+3. The ultrasound receiver (echo pin) receives the reflected sound (echo).
+
+![HC-SR04 Ultrasonic Sensor](./assets/sr04.webp)
+
+Taking into account the sound’s velocity in the air and the travel time (time passed since the transmission and reception of the signal) we can calculate the distance to an object. Here’s the formula:
+  
+```
+distance to an object = ((speed of sound in the air)*time)/2
+```
+- where: speed of sound in the air at 20ºC (68ºF) = 343m/s
+
 
 <a name="II-User-Guide"></a>
 ## 🧾 B. User Guide
@@ -42,11 +77,11 @@ Pin connection convention:
 |       | PWM  |  | D5   |
 
 Connection diagram:
-![Connection diagram](./simulation.png)
+![Connection diagram](./assets/simulation.png)
 
 Actual image:
 
-![Actual circuit](./radar.png)
+![Actual circuit](./assets/radar.png)
 
 Demo video:
 
@@ -79,7 +114,7 @@ https://github.com/DoDat-12/shortrangeradar/assets/89787228/abf60fdb-f4bd-479f-a
 ## 🚀 D. Schematic Diagram
 Schematic diagram of the project:
 
-![Schematic diagram](./nguyenly.png)
+![Schematic diagram](./assets/nguyenly.png)
 
 <a name="V-Software-Design"></a>
 ## 💻 E. Software Design
